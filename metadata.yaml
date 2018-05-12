@@ -1,0 +1,29 @@
+_repo: The-Late-Miss-Hollingford_18991
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilbert, Rosa M. (Rosa Mulholland)
+    aliases:
+    - Gilbert, Rosa Mulholland, Lady
+    - Mulholland, Rosa
+    birthdate: 1841
+    deathdate: 1921
+    gutenberg_agent_id: '6112'
+    url: http://www.gutenberg.org/2009/agents/6112
+description: ''
+gutenberg_issued: '2006-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcc 'PR'
+title: The Late Miss Hollingford
+url: http://www.gutenberg.org/ebooks/18991
