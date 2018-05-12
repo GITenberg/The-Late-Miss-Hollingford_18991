@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6112'
     url: http://www.gutenberg.org/2009/agents/6112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18991#The-Late-Miss-Hollingford
 gutenberg_issued: '2006-08-05'
 gutenberg_type: Text
 identifiers:
